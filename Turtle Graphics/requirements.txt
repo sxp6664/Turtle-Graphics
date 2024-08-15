@@ -1,0 +1,4 @@
+Requirements
+Python 3.x
+turtle library (comes pre-installed with Python)
+colorsys library (part of Python standard library)
